@@ -4,6 +4,12 @@ header{
     margin: 0 auto;
 
     padding: 8px 24px;
+
+}
+
+img{
+    width: 240px;
+    height: 135px;
 }
 
 a{
@@ -34,8 +40,8 @@ a{
 }
 
 .menu{
-    list-style: none;
     display: flex;
+    list-style: none;
 
     li{
         margin-left: 24px;
